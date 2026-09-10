@@ -216,3 +216,42 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# ==================================================
+# Pipeline-Boletos-Condominio - arquivos privados
+# ==================================================
+
+# Dados reais utilizados pela aplicação
+data/private/
+data/input/
+data/output/
+
+# Boletos reais
+boletos/
+
+# Matrizes reais da empresa
+matrizes/
+
+# Relatórios gerados localmente
+reports/
+logs/
+
+# Arquivos temporários
+temp/
+tmp/
+
+# Configurações e credenciais
+.env
+.env.*
+!.env.example
+
+# Ambiente virtual
+.venv/
+venv/
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# VS Code - configuração local
+.vscode/
