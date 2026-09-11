@@ -9,9 +9,9 @@
 * O sistema deve possuir uma interface acessível para usuários não-técnicos, exigindo zero interação via terminal.
 
 **Ação (Em Andamento)**
-Fase 1: Separação e leitura de PDFs nativos em memória.
-Fase 2: Higienização e cruzamentos de dados de contatos.
-Fase 3: Roteamento condicional (API WhatsApp, Servidor SMTP e lista de Impressão).
+- Fase 1: Separação e leitura de PDFs nativos em memória.
+- Fase 2: Higienização e cruzamentos de dados de contatos.
+- Fase 3: Roteamento condicional (API WhatsApp, Servidor SMTP e lista de Impressão).
 * Tecnologias definidas até o momento: Python (Core) e Git/GitHub (Versionamento).
 
 **Resultado Esperado**
